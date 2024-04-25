@@ -50,6 +50,5 @@ Acknowledge any individuals or organizations that contributed to your project. Y
 
 Data link : https://spandh.dcs.shef.ac.uk//gridcorpus/
 
-Feel free to customize and expand upon this template to better suit your project's needs.
 
 
