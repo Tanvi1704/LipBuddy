@@ -41,9 +41,6 @@ python your_script.py --input input_file.txt --output output_file.txt
 
 Describe how others can contribute to your project. Include guidelines for submitting bug reports, feature requests, or pull requests. You can also provide information on coding standards, testing procedures, and project organization.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code for personal or commercial use. See the [LICENSE](LICENSE) file for more details.
 
 ## Credits
 
